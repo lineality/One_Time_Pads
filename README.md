@@ -4,3 +4,5 @@ Projects Using Basic One Time Pads
 # Notebook version
 
 # utf-8 vs. basic alpha-numeric
+
+# Chrome extention version
