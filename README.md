@@ -6,3 +6,11 @@ Projects Using Basic One Time Pads
 # utf-8 vs. basic alpha-numeric
 
 # Chrome extention version
+
+
+Tools:
+- simple ascii version
+- unicode byte to character translation
+- XOR reverser
+- 
+ 
