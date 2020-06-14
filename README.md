@@ -12,5 +12,5 @@ Tools:
 - simple ascii version
 - unicode byte to character translation
 - XOR reverser
-- ? file importing?
+- ? file importing?...data type?
  
