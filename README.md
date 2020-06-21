@@ -21,3 +21,5 @@ Projects Using Basic One Time Pads
 - ? file importing?...data type?
 - pad generation tools
 - 
+
+hex vs. binary XOR...
