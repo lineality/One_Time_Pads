@@ -11,6 +11,9 @@ Projects Using Basic One Time Pads
 
 # Chrome extention version
 
+.py files
+
+notebooks
 
 (sub) Tools:
 - simple ascii version
