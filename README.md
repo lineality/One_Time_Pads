@@ -11,7 +11,11 @@ Projects Using Basic One Time Pads
 
 # Chrome extention version
 
-.py files
+## .py files 
+- UTF8_OTMP
+- UTF8_Pad_Maker
+- ASCII_OTPM
+- ASCII_Pad_Maker
 
 readmes
 
