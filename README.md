@@ -19,6 +19,9 @@ Projects Using Basic One Time Pads
 
 readmes
 
+platforms?
+heroku?
+
 notebooks
 
 (sub) Tools:
