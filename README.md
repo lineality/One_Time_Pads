@@ -17,7 +17,7 @@ Projects Using Basic One Time Pads
 - ASCII_OTPM
 - ASCII_Pad_Maker
 
-readmes
+readme
 
 platforms?
 heroku?
