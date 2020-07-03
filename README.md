@@ -1,12 +1,11 @@
 # One_Time_Pads
 Projects Using Basic One Time Pads
 
+
 # Notebook version(s)
-
+# .py versions
 # Ascii version
-
 # All- UTf-8 version
-
 # utf-8 vs. basic alpha-numeric
 
 # Chrome extention version
@@ -32,13 +31,9 @@ notebooks
 - XOR reverser
 - ? file importing?...data type?
 - pad generation tools
-- 
-
-binary XOR...
 
 pad type: character, 
 maybe: randomly make binary then convert that to hex...
-
 
 choice issues...
 csv and auto-file reading choices...
