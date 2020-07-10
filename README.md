@@ -1,5 +1,8 @@
 # One_Time_Pads
-Managing Basic One Time Pads
+
+Basic One Time Pads: 
+One Time Pad Manager
+One Time Pad Generator
 
 
 # Notebook version(s)
