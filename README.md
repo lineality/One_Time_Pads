@@ -52,3 +52,6 @@ Q: json files...or csv files?
 read file type?
 
 file editing...
+
+
+deployment options...
