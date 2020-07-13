@@ -21,8 +21,15 @@ One Time Pad Generator
 
 readme
 
-platforms?
-heroku?
+### platforms(?)
+.py
+notebook
+heroku? (or other web app)
+android
+ios
+chrome app
+static html5 etc github page?
+
 
 notebooks
 
