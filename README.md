@@ -65,3 +65,19 @@ file editing...
 
 deployment options...
 sequence confirmation
+
+~no-backend; basic whitelist network configuration with conversation partner
+pad-networks
+
+Q: managing who is online when, and sending data in a no-storage setup
+(alt: storage of files) 
+
+arranging a more than 2 person convesation using pads?
+Maybe a participant key?
+
+handling collisions? (maybe block out some transmision times?)
+
+meta-data:
+last sequence key, next sequence key, participant-key white-list-check
+
+
