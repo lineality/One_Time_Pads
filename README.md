@@ -3,7 +3,7 @@
 Basic One Time Pads: 
 One Time Pad Manager
 One Time Pad Generator
-
+for networks
 
 # Notebook version(s)
 # .py versions
@@ -11,7 +11,7 @@ One Time Pad Generator
 # All- UTf-8 version
 # utf-8 vs. basic alpha-numeric
 
-# Chrome extention version
+# Chrome extension version
 
 ## .py files 
 - UTF8_OTMP
@@ -88,3 +88,5 @@ individual character file method...
 versions...
 terminal version
 directory version
+
+
